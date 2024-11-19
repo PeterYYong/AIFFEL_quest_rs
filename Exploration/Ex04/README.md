@@ -8,10 +8,10 @@
     - 이미지내 객체 디텍션의 문제로 이미지내 인물과 동물의 이미지를 감지하고 추출하는 완성된 코드가 제출되었음.
   
     - 인물 Detection
-    - ![image](https://github.com/user-attachments/assets/92f6f90b-cb95-42cc-8a58-9f5177b3e5cd)
+      ![image](https://github.com/user-attachments/assets/92f6f90b-cb95-42cc-8a58-9f5177b3e5cd)
       
     - 동물 Detection
-    - ![image](https://github.com/user-attachments/assets/423915e3-2190-4d78-90db-04d61c8ca443)
+      ![image](https://github.com/user-attachments/assets/423915e3-2190-4d78-90db-04d61c8ca443)
 
     
 - [v]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -52,7 +52,7 @@
         
 - [v]  **4. 회고를 잘 작성했나요?**
     - 프로젝트를 해결하면서 발생한 문제와 다음 단계에 대한 의견 및 방향이 잘 작성되어 있다.
-    - ![image](https://github.com/user-attachments/assets/c1f4ce3a-7591-4fd5-bd3d-60a809b80b86)
+      ![image](https://github.com/user-attachments/assets/c1f4ce3a-7591-4fd5-bd3d-60a809b80b86)
 
         
 - [v]  **5. 코드가 간결하고 효율적인가요?**
