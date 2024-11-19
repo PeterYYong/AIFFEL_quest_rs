@@ -6,7 +6,7 @@
 # PRT(Peer Review Template)
 - [v]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 이미지내 객체 디텍션의 문제로 이미지내 인물과 동물의 이미지를 감지하고 추출하는 완성된 코드가 제출되었음.
-    - 
+  
     - 인물 Detection
     - ![image](https://github.com/user-attachments/assets/92f6f90b-cb95-42cc-8a58-9f5177b3e5cd)
       
@@ -17,9 +17,9 @@
 - [v]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 프로젝트에서 가장 핵심적인 부분은 아래와 같은 순서로 객체를 탐지하여 마스크를 적용하고 배경을 흐릿하게 표현하는 것인데,
-    - 각 단계별로 알아보기 쉽게 표현이 잘되어 있고 주석도 잘 처리되어 있음
+      각 단계별로 알아보기 쉽게 표현이 잘되어 있고 주석도 잘 처리되어 있음
       
-    - 1. 모델을 활용한 객체 Detection
+      1. 모델을 활용한 객체 Detection
         ![image](https://github.com/user-attachments/assets/7b03f58e-dcbd-406d-9542-d38301fb711e)
 
       2. 이를 통해 라벨링과 segmentation 함
