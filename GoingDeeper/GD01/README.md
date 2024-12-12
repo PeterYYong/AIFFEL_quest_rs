@@ -46,6 +46,8 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 
         - 아래 사진과 같이 회고를 매우 상세히 작성하였음
+        - 특히 Validation Loss와 Validation Accuracy를 Ablation Study 방식에 기반하여 분석하였음
+        - 최종적으로 skip connection 효과에 대하여 Vanishing Gradient와 연관하여 해석하였음
         - ![image](https://github.com/user-attachments/assets/73e1a169-528f-43ce-9874-0662f9611bc9)
 
         
@@ -71,3 +73,4 @@
 - 루브릭에서 요구하는 Ablation Study가 본 프로젝트에서 매우 잘 수행되었음을 확인하였습니다.
 - 결론에서 논문 내용을 참조하여 실험결과를 해석하는 부분이 결과 해석을 잘 뒷받침하는 것으로 확인됩니다.
 - 50 epoch에서의 결과가 매우 오래 걸렸을 것 같은데, 용석님 덕분에 많은 그루분들도 해당 결과를 확인할 수 있어서 정말 좋은 것 같습니다.
+- Vanishing Gradient와 Overfitting에 대하여 구분하거나 확인 할 수 있는 방법에 대하여 어제 퍼실님께서 탐구해볼 것을 말씀주셨습니다. 용석님께서 시간이 가능하시다면 한번 탐구하고 도전해보는 것도 추천 드립니다.
