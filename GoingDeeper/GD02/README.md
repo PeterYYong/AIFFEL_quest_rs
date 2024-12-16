@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c019ac0f-c9fc-4e43-b276-47bfe14abdb5)# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김용석
 - 리뷰어 : 윤수영
 
