@@ -12,12 +12,12 @@
         - 아래 산진과 같이 루브릭에서 요구하는 사항을 모두 만족했음
         - 뿐만아니라 bounding box가 기울어진 것을 보정하여 ioU지표가 신뢰 가능하도록 하였음음
         - 또한 모든 레이어에서 gard-cam featur map을 활성화하여 출력하였음
-        - ![alt text](image-6.png)
-        - ![alt text](image-8.png)
-        - ![alt text](image-9.png)
-        - ![alt text](image-10.png)
-        - ![alt text](image-11.png)
-        - ![alt text](image-12.png)
+        - ![image](https://github.com/user-attachments/assets/13690604-8a3d-4b2d-9dc6-85e2416d8c7f)
+        - ![image](https://github.com/user-attachments/assets/f3e1cce0-00a7-40b3-883c-a7051d63b273)
+        - ![image](https://github.com/user-attachments/assets/8031c90f-af17-4514-ad51-ac908f2627b5)
+        - ![image](https://github.com/user-attachments/assets/60ed182a-9a20-41fc-9f59-cd91554f7fc7)
+        - ![image](https://github.com/user-attachments/assets/cfc75c4f-cce0-4e5c-9ccc-441c3f576e18)
+        - ![image](https://github.com/user-attachments/assets/eae69fd1-6980-4a16-89fd-817123a9ee78)
           
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -30,10 +30,10 @@
           
           
         - 아래 사진과 같이 주석을 매우 잘 작성하여, 코드의 이해를 도왔음
-        - ![alt text](image-5.png)
-        - ![alt text](image-4.png)
-        - ![alt text](image-3.png)
-        - ![alt text](image-2.png)
+        - ![image](https://github.com/user-attachments/assets/0be0cfa2-3fbc-4954-91a5-39e55784c863)
+        - ![image](https://github.com/user-attachments/assets/6eb5a8a9-64e9-4531-93c9-20f355eb545a)
+        - ![image](https://github.com/user-attachments/assets/6ec25df7-abf3-46a6-b8fd-4cba709adf96)
+        - ![image](https://github.com/user-attachments/assets/2f1c427b-b903-4ddc-adcf-b3498313790d)
           
         
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -45,11 +45,11 @@
           
           
         - 아래 사진과 같이 문제 상황을 확실하게 정의하고, 이후 코드에서 문제를 해결하였음음
-        - ![alt text](image-1.png)
+        - ![image](https://github.com/user-attachments/assets/a8ee6488-2648-4296-b88a-bcf8a7b196a9)
           
           
         - ACL 모델을 이용하여 추가 실험을 진행하였음
-        - ![alt text](image-13.png)
+        - ![image](https://github.com/user-attachments/assets/c1e41f03-9ba1-4a1c-94fa-6974658af60d)
           
         
 - [O]  **4. 회고를 잘 작성했나요?**
@@ -60,7 +60,7 @@
           
           
         - 아래 사진과 같이 말미에 회고를 잘 작성하였음
-        - ![alt text](image.png)
+        - ![image](https://github.com/user-attachments/assets/8c6d0068-3bf7-46c1-b8ce-1ab6971ee540)
           
         
 - [O]  **5. 코드가 간결하고 효율적인가요?**
@@ -70,7 +70,7 @@
           
           
         - 아래 사진과 같이 함수를 적극적으로 사용하여, 복잡하고 어려운 과정을 단순화하고 자동화 하였음
-        - ![alt text](image-7.png)
+        - ![image](https://github.com/user-attachments/assets/9ad3ff2f-cb1b-45d7-a588-b747fd3b0d11)
 
 
 # 회고(참고 링크 및 코드 개선)
